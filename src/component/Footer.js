@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="border-b-2 mb-3 ">
           <div class="text-white p-2 flex ">
             <button className="border rounded-lg">
-              <a href="#" className=" flex text-white m-1 p-1 no-underline">
+              <a href="#" className="flex text-white m-1 p-1 no-underline">
                 <p className="mt-1 text-xl">
                   <FiMail />
                 </p>
