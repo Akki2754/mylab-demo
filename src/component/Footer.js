@@ -1,4 +1,4 @@
-import React from "react";
+ import React from "react";
 import { FiMail } from "react-icons/fi";
 import { FaFacebook, FaTwitter, FaLinkedin } from "react-icons/fa";
 import logo from "../images/mylab-logo.png";
